@@ -4,19 +4,19 @@ Weather module shows the weather of the selected city/state. <br>
 Currency module shows the selected country's conversion rate from 1 USD. (Responsive) <br>
 Norris module is basically just showing up new jokes on Click. <br> 
 
-In addition to it, also separated the modules with giving proper routes. (react-router-dom) <br>
+In addition to it, also separated the modules with giving proper routes. (react-router-dom) 
 
-##Technologies Used :
+## Technologies Used :
 
 React.js, Node.js, JavaScript, HTML, CSS, react-router-dom, axios, fetch, RESTful API calling
 
-#BUILD INSTRUCTIONS
-You need to run both express and react 
-- Run express:  node server.json  
-- Run react: npm start
 
+## Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Unzip the solution.
+2. Run `yarn` to install the dependencies.
+3. Run `yarn start` or `npm start` to run the app and go to http://localhost:3000/ to view. <br> 
+   I have tested it on chrome browser.
 
 ## Available Scripts
 
