@@ -1,0 +1,25 @@
+
+.currencyPage {
+    background-image: url('./images/currency.jpg');
+    background-repeat: repeat;
+    margin: 2% 10%;
+    border: 0.5px solid grey;
+    height: -webkit-fill-available;
+    padding: 15%;
+}
+#currencyOptions{
+    cursor: pointer;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+.value {
+    font-size: larger;
+}
+.currencyType {
+    cursor: pointer;
+}
+.result {
+    background-color: whitesmoke;
+    margin: 2% 25%;
+}
