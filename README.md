@@ -1,7 +1,7 @@
 ## React + Express App : Calling Restful API and formatting the data which result in showing some of the selected data.
 
 Weather module shows the weather of the selected city/state. <br>
-Currency module shows the selected country's conversion rate from 1 USD. (Responsive) <br>
+Currency module shows the selected country's conversion rate from 1 USD. <br>
 Norris module is basically just showing up new jokes on Click. <br> 
 
 In addition to it, also separated the modules with giving proper routes. (react-router-dom) 
